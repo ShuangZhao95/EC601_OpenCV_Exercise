@@ -1,6 +1,6 @@
 # EC601_OpenCV_Exercise
 
-OpenCV homework of EC601
+OpenCV homework of EC601 by Shuang Zhao (zs1995@bu.edu)
 
 ## Exercise1
 
